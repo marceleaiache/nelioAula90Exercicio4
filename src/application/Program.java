@@ -59,6 +59,7 @@ public class Program {
         }
 
         //IMPRESSÃO DA QUANTIDADE DE NUMEROS PARES INSERIDOS PELO USUARIO
+        System.out.println();
         System.out.println("QUANTIDADE DE PARES = " + countPairs);
 
         sc.close();
